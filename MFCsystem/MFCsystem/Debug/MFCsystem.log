@@ -1,0 +1,4 @@
+﻿  MFCsystemDlg.cpp
+MFCsystemDlg.obj : warning LNK4258: 指令“/ENTRY:mainCRTStartup”与开关“/ENTRY:wWinMainCRTStartup”不兼容；已忽略
+  MFCsystem.vcxproj -> C:\Users\George\Documents\Visual Studio 2015\Projects\MFCsystem\Debug\MFCsystem.exe
+  MFCsystem.vcxproj -> C:\Users\George\Documents\Visual Studio 2015\Projects\MFCsystem\Debug\MFCsystem.pdb (Full PDB)

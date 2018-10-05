@@ -1,0 +1,4 @@
+﻿  源码正数.c
+c:\users\george\documents\visual studio 2015\projects\源码反码补码\源码反码补码\源码正数.c(6): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+  源码反码补码.vcxproj -> c:\users\george\documents\visual studio 2015\Projects\源码反码补码\Debug\源码反码补码.exe
+  源码反码补码.vcxproj -> c:\users\george\documents\visual studio 2015\Projects\源码反码补码\Debug\源码反码补码.pdb (Full PDB)

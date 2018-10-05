@@ -1,0 +1,5 @@
+﻿  赋值运算符规则.c
+c:\users\george\documents\visual studio 2015\projects\赋值运算符\赋值运算符\赋值运算符规则.c(9): warning C4305: “=”: 从“double”到“float”截断
+  赋值运算符嵌套.c
+  正在生成代码...
+c:\users\george\documents\visual studio 2015\projects\赋值运算符\赋值运算符\赋值运算符嵌套.c(6): error C4700: 使用了未初始化的局部变量“c”

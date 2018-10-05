@@ -1,0 +1,5 @@
+﻿  sizeof.c
+c:\users\george\documents\visual studio 2015\projects\sizeof运算符\sizeof运算符\sizeof.c(16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\george\documents\visual studio 2015\projects\sizeof运算符\sizeof运算符\sizeof.c(16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+  sizeof运算符.vcxproj -> c:\users\george\documents\visual studio 2015\Projects\sizeof运算符\Debug\sizeof运算符.exe
+  sizeof运算符.vcxproj -> c:\users\george\documents\visual studio 2015\Projects\sizeof运算符\Debug\sizeof运算符.pdb (Full PDB)
